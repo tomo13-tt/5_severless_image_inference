@@ -320,8 +320,8 @@ aws logs filter-log-events \
 
 ## 使用技術
 
-**AWS** — Lambda / S3 / ECR / IAM / CloudWatch Logs / Budgets / AWS CLI
-**コンテナ** — Docker / Lambda Runtime Interface Emulator
-**モデル** — PyTorch / timm / ONNX / ONNX Runtime
-**言語・ライブラリ** — Python 3.12 / NumPy / Pillow / boto3
+**AWS** — Lambda / S3 / ECR / IAM / CloudWatch Logs / Budgets / AWS CLI  
+**コンテナ** — Docker / Lambda Runtime Interface Emulator  
+**モデル** — PyTorch / timm / ONNX / ONNX Runtime  
+**言語・ライブラリ** — Python 3.12 / NumPy / Pillow / boto3  
 **環境** — WSL2 (Ubuntu 24.04) / Google Colab / Git・GitHub
