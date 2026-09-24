@@ -1,0 +1,10 @@
+# モデル本体（GitHubの100MB制限を超えるため、Releasesで配布）
+model.onnx
+
+# Python
+__pycache__/
+*.pyc
+
+# AWS認証情報（万一の混入防止）
+.aws/
+*.pem
